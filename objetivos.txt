@@ -1,0 +1,4 @@
+aprender a utilizar correctamente git
+aprender a utilizar correctamente gitkraken
+aprender front end
+aprender back end
