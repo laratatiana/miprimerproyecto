@@ -1,0 +1,1 @@
+el tercer objetivo del master es crear una aplicacion completa, tanto el front como el back end que sea funcional en todos los dispositivos
